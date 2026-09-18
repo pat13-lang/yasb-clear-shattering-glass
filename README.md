@@ -12,6 +12,8 @@ The status bar initializes a `100%` width, top-aligned canvas (`height: 30px`) u
 *   **System UI & Elements**: `"JetBrainsMono NFP"`
 *   **System Indicators**: `"Segoe Fluent Icons"`
 
+<img width="959" height="599" alt="preview" src="https://github.com/user-attachments/assets/50fc585a-f142-4d4f-8db6-fec2a6f93262" />
+
 ### 🎛️ Widget Layout Arrangement
 *   **Left Section**: `home` (Navigation Panel), `taskbar`
 *   **Center Section**: `clock` (Formatted system time & Calendar)
